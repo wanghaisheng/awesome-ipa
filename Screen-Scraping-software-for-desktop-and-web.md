@@ -9,91 +9,91 @@ Screen Scraping software for desktop and web
 
 #### 100% accurate screens scraping
 
-![cognitive.png](//www.uipath.com/hs-fs/hubfs/screen_scraping_logos.png?t=1523940839048&width=755&height=110&name=screen_scraping_logos.png)
+![cognitive.png](www.uipath.com/hs-fs/hubfs/screen_scraping_logos.png?t=1523940839048&width=755&height=110&name=screen_scraping_logos.png)
 
 Screen Scraping is an important part of data migration and integration scenarios. It enables modern apps to talk with legacy apps that do not offer an API and is the complement to the data entry side of automation. There are so many technologies available to create user interfaces on Windows desktop—from the old DOS console apps, the Win32 and FoxPro apps of the 1990s, to the Java and .Net Winforms apps of early 2000, to modern WPF apps 
 
 today. Then, there are the web apps of all the different browsers, including Internet Explorer, Firefox, and Chrome, Flash and Silverlight web technologies, as well as enterprise apps, such as SAP, Siebel, and PeopleSoft, and the good old mainframe with the green screen and terminal emulators. All of these apps can be published via Citrix/VDI. UiPath is providing the first 100% accurate, extremely fast screen scraping tool.
 
-![RPA-Business-Analyst.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_monitor-rpa.svg?t=1523940839048)
+![RPA-Business-Analyst.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_monitor-rpa.svg?t=1523940839048)
 
 ##### Works everywhere
 
 Including Java, .Net, Flash, PDF, Browsers, Legacy, Citrix, SAP, and Siebel.
 
-![RPA-Business-Analyst.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_OCR.svg?t=1523940839048)
+![RPA-Business-Analyst.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_OCR.svg?t=1523940839048)
 
 ##### Web scraping
 
 Get structured data across multiple pages.
 
-![RPA-Change-Manager.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_assisted-rpa.svg?t=1523940839048)
+![RPA-Change-Manager.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_assisted-rpa.svg?t=1523940839048)
 
 ##### Next generation automation
 
 Apply screen scraping to automate processes.
 
-![Shape 8.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_fast.svg?t=1523940839048)
+![Shape 8.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_fast.svg?t=1523940839048)
 
 ##### Fast and reliable
 
 Proven technology used on millions of computers. Delivers in under 16 milliseconds.
 
-![RPA-Business-Analyst.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_survey.svg?t=1523940839048)
+![RPA-Business-Analyst.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_survey.svg?t=1523940839048)
 
 ##### 100% accurate screen scraper
 
 Extracts screen text from running apps.
 
-![RPA-Business-Analyst.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_OCR-2.svg?t=1523940839048)
+![RPA-Business-Analyst.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_OCR-2.svg?t=1523940839048)
 
 ##### Screen OCR
 
 For Citrix or virtualized applications.
 
-![RPA-Business-Analyst.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_monitor-rpa.svg?t=1523940839048)
+![RPA-Business-Analyst.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_monitor-rpa.svg?t=1523940839048)
 
 ##### Works everywhere
 
 Including Java, .Net, Flash, PDF, Browsers, Legacy, Citrix, SAP, and Siebel.
 
-![RPA-Business-Analyst.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_OCR.svg?t=1523940839048)
+![RPA-Business-Analyst.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_OCR.svg?t=1523940839048)
 
 ##### Web scraping
 
 Get structured data across multiple pages.
 
-![RPA-Change-Manager.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_assisted-rpa.svg?t=1523940839048)
+![RPA-Change-Manager.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_assisted-rpa.svg?t=1523940839048)
 
 ##### Next generation automation
 
 Apply screen scraping to automate processes.
 
-![Shape 8.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_fast.svg?t=1523940839048)
+![Shape 8.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_fast.svg?t=1523940839048)
 
 ##### Fast and reliable
 
 Proven technology used on millions of computers. Delivers in under 16 milliseconds.
 
-![RPA-Business-Analyst.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_survey.svg?t=1523940839048)
+![RPA-Business-Analyst.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_survey.svg?t=1523940839048)
 
 ##### 100% accurate screen scraper
 
 Extracts screen text from running apps.
 
-![RPA-Business-Analyst.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_OCR-2.svg?t=1523940839048)
+![RPA-Business-Analyst.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_OCR-2.svg?t=1523940839048)
 
 ##### Screen OCR
 
 For Citrix or virtualized applications.
 
-![RPA-Business-Analyst.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_monitor-rpa.svg?t=1523940839048)
+![RPA-Business-Analyst.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_monitor-rpa.svg?t=1523940839048)
 
 ##### Works everywhere
 
 Including Java, .Net, Flash, PDF, Browsers, Legacy, Citrix, SAP, and Siebel.
 
-![RPA-Business-Analyst.png](//www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_OCR.svg?t=1523940839048)
+![RPA-Business-Analyst.png](www.uipath.com/hubfs/New%20Website%20/Icons/Light%20Blue/uip-icons-light-blue_OCR.svg?t=1523940839048)
 
 ##### Web scraping
 
@@ -108,7 +108,7 @@ Screen scraping comes to the rescue in many business scenarios. All too often, t
 
 Since 2004, UiPath has been used by more than 1,000 companies for document management and imaging, enterprise application integration, content migration, desktop analytics, business IT process automation, application integration, legacy modernization solutions, mobile enablement of desktop apps, and medical record scraping.
 
-![featured-image-default.png](//www.uipath.com/hs-fs/hubfs/screen_scraping_website.png?t=1523940839048&width=640&height=346&name=screen_scraping_website.png)
+![featured-image-default.png](www.uipath.com/hs-fs/hubfs/screen_scraping_website.png?t=1523940839048&width=640&height=346&name=screen_scraping_website.png)
 
 ### A hyper productive IDE
 
@@ -148,7 +148,7 @@ UiPath Screen Scraping at a glance
 
 .divider { position: relative; } .divider .divider-orange { position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 80px; height: 5px; margin: auto; background-color: #e74c2d; }
 
-![featured-image-default.png](//www.uipath.com/hs-fs/hubfs/screen_scraping_website2.png?t=1523940839048&width=640&height=343&name=screen_scraping_website2.png)
+![featured-image-default.png](www.uipath.com/hs-fs/hubfs/screen_scraping_website2.png?t=1523940839048&width=640&height=343&name=screen_scraping_website2.png)
 
 ### UiPath brings credibility back to screen scraping
 
