@@ -9,7 +9,7 @@ Screen Scraping software for desktop and web
 
 #### 100% accurate screens scraping
 
-![cognitive.png](www.uipath.com/hs-fs/hubfs/screen_scraping_logos.png?t=1523940839048&width=755&height=110&name=screen_scraping_logos.png)
+![cognitive.png](www.uipath.com/hs-fs/hubfs/screen_scraping_logos.png)
 
 Screen Scraping is an important part of data migration and integration scenarios. It enables modern apps to talk with legacy apps that do not offer an API and is the complement to the data entry side of automation. There are so many technologies available to create user interfaces on Windows desktop—from the old DOS console apps, the Win32 and FoxPro apps of the 1990s, to the Java and .Net Winforms apps of early 2000, to modern WPF apps 
 
