@@ -51,12 +51,20 @@ Nevertheless, we are still far from achieving fully fledged digital labor. Now, 
 
 ## AI IMPLEMENTATION CHALLENGES
 
+
+对于信任和控制AI是存在潘多拉盒子的。也就是说在对AI保持绝对的控制权和完全信任它之间一直有争议，因为人们总是希望AI的行为是高度可预测的。
+
 There is an actual paradox in terms of  trusting and controlling an AI solution.There is a constant struggle between retaining control of the AI and trusting its autonomy because humans want it to be highly predictable.
+
+人们往往会信任自己的员工，培训他们来拿到一些结果，通常也会有一些个人行为的管控。但要人们相信一个机器人或者任何一个自动化的流程完成它们想要的结果会怎么样呢？
 
 An employee can be trusted to perform as expected by trying to train him or her to deliver results as a robot and by doing personal performance controls.But how do humans trust a robot or any automated process, for that matter, to perform as expected?
 
+首先有一点是诸如像 UiPath之类公司开发的 RPA 机器人和基于AI的机器人之间是存在差异的。因为 RPA机器人是通过编程来完成特定的任务，而AI的机器人是通过自己观察训练得到的。相信算法已经不再是一个问题，眼下是要不要相信一个机器。把AI机器人看作是一个可以和人类一样智能地应对异常和正常情况是其中的关键。信任 AI机器人需要时间并且需要实施过程中的透明性以及分析数据。找到一个可以帮助人类观察机器如何学习以及使用学习到的知识、做出正确的决策的方法绝非易事。
 
 For one, there is a difference between an RPA robot, as one of those developed by UiPath, and a robot as an AI solution. While the RPA robot is programmed to perform certain tasks, the AI solution is trained by observation. It is no longer a question of trusting an algorithm, but of trusting a machine. Treating the AI solution as a machine that acts as a human to react intelligently to exceptions or unexpected changes is key. Trusting AI machines will take time and requires transparency and analytics right from the implementation get go. Finding a transparent method that helps humans observe how the machines learn and use the knowledge the correct way and take the right decisions will be no easy feat. 
+
+除了信任之外，另外一个需要考虑的因素是实施人工智能的过程就是设计最佳的激励体系。存在三种潜在的解决思路：放弃激励体系则需要大量的数据和时间来
 
 Besides trust, another challenge to take into consideration when implementing Artificial Intelligence is devising the best reward system. There are three possible solutions for this issue: giving up the reward system—which would require a lot of data and time, creating a processspecific reward system or implementing a human supervision system. On the one hand, there isn’t any general reward system that can be applied to any situation. There are general rules, but the reward system needs to be very specific to the process it is applied to. The process-specific reward system could potentially allow the AI system selftrain within 48 hours. 
 
