@@ -28,7 +28,7 @@ The difference consists of the way in which these “tools” work: it all start
 
 Automation is constantly evolving and does not stop at RPA. Artificial Intelligence could potentially be a key element in creating digital labor. It has already started to be integrated into areas such as machine learning, cognitive and computer vision, conversational technologies, human-to-machine user interfaces, predictive data analytics, RPA, cybersecurity, IoT or intelligent monitoring. Nevertheless, its effects are not as invasive as they might potentially be in the future.
 
-尽管RPA才刚刚日趋成熟，将AI技术应用到 RPA就形成真正的数字化劳动力，将能完成那些典型的需要知识劳动者的任务。囊括了AI、RPA和其他认知工具的诸如IPA智能流程自动化的应用程序来提升生产力。AI 将成为数字化劳动力“思考能力的”部分。AI会调用RPA,RPA完成工作流程、API、计算机操作脚本、机械式机器人等的操作。
+尽管RPA才刚刚日趋成熟，将AI技术应用到 RPA就形成真正的数字化劳动力，将能完成那些典型的需要知识劳动者的任务。囊括了AI、RPA和其他认知工具的诸如IPA智能流程自动化的应用程序来提升生产力。AI 将成为数字化劳动力“思考能力的”部分。AI会调用RPA,RPA完成工作流程、API、计算机操作脚本、机械式机器人等的实际操作。
 
 
 Even though RPA is only now starting to mature, adding AI to it will allow the creation of a true digital workforce that will automate activities typically characteristic to knowledge workers. An application such as Intelligent Process Automation converges AI, RPA and other cognitive tools to enhance productivity. The quality of work will provide service continuity and availability, and will reduce costs. AI will be responsible for the “thinking” component of the digital workforce. It will create the new rules for machine learning and will perform supervised learning, reinforcement learning, and unsupervised learning. AI will trigger RPA, which will be handle workflows and APIs, computer command scripts and mechanical robotics.
@@ -64,26 +64,39 @@ An employee can be trusted to perform as expected by trying to train him or her 
 
 For one, there is a difference between an RPA robot, as one of those developed by UiPath, and a robot as an AI solution. While the RPA robot is programmed to perform certain tasks, the AI solution is trained by observation. It is no longer a question of trusting an algorithm, but of trusting a machine. Treating the AI solution as a machine that acts as a human to react intelligently to exceptions or unexpected changes is key. Trusting AI machines will take time and requires transparency and analytics right from the implementation get go. Finding a transparent method that helps humans observe how the machines learn and use the knowledge the correct way and take the right decisions will be no easy feat. 
 
-除了信任之外，另外一个需要考虑的因素是实施人工智能的过程就是设计最佳的激励体系。存在三种潜在的解决思路：放弃激励体系则需要大量的数据和时间来
+除了信任之外，另外一个需要考虑的因素是实施人工智能的过程就是设计最佳的激励体系。存在三种潜在的解决思路：放弃激励体系则需要大量的数据和时间、构建真正对某个具体流程的激励体系或者实现一个人类监督的体系。另一方面，并不存在适用于任何场景下的通用的激励体系。肯定会存在一些通用的法则，但激励体系必须具体到那些它所要应用的业务流程中去。针对具体业务流程的激励体系使得AI 系统可以在48小时之内完成自我学习和训练。
 
 Besides trust, another challenge to take into consideration when implementing Artificial Intelligence is devising the best reward system. There are three possible solutions for this issue: giving up the reward system—which would require a lot of data and time, creating a processspecific reward system or implementing a human supervision system. On the one hand, there isn’t any general reward system that can be applied to any situation. There are general rules, but the reward system needs to be very specific to the process it is applied to. The process-specific reward system could potentially allow the AI system selftrain within 48 hours. 
 
+
+另外，在人类的监督下，这样的系统在学会自主行动之前需要更多的时间。下一步要考虑的则是如何实现这样的AI才能更加高效。
+
 On the other hand, with human supervision, the system will need a lot more time until it learns how to act. Next, there is the matter of properly implementing AI to make it efficient. 
 
-## Understanding that preparation and time are fundamental to successfully implementing AI is key. 
+## 理解事先的准备和时间是实现AI的关键因素
+
+对于完成业务和流程的分析而言，需要理解哪些流程可以使用AI和RPA来自动化，因为并不是所有都适合自动化。
 
 In terms of doing a business and process analysis, there needs to be an understanding of what processes can be automated using AI and RPA, because not all of them are suited to be automated. 
 
+于是乎，企业需要确定最终的运营模型，其中要定义好组织结构的变化和能够让所有关键人员都参与其中的沟通和实施方案。他们必须设计好管理方案、协调关键参与方的沟通、定义正确的工作方式和跟踪项目的进展以及KPI的变化。
+
 Then, enterprises must set up target operating models that define the organizational change, implementation and communications plans that allow engaging with the key subject matter experts. They have to devise governance programs, manage communication to key stakeholders, define the right working methods, and track progress and transformation KPIs. 
+
+下一步，企业必须定义和实施技术整合和基础设施的方案，以及自动化用户的授权。最后一步，建立卓越中心(center of excellence)来负责管理和自动化方案的快速高效的实施。
 
 Next, organizations must define and implement the technology integration and infrastructure provision plans, as well as the robotic user authorizations. Finally, setting up Centers of Excellence (CoEs) in charge of implementing and managing automation as quickly and as efficiently as possible is also essential.
 
 ![](https://user-images.githubusercontent.com/2363295/38863286-b8529902-4269-11e8-9dce-f7feeeee395d.png)
 
 
-## AI OPERATING CHALLENGES 
+## AI 实战中的难题 
+
+企业要了解变化所引发的恐惧以及员工个体缺乏主动性是真实存在的，这些因素是会影响成功的应用自动化。不能把AI看作是威胁，或者是来抢大家饭碗的，而是看作是一种增加工作效率，提升员工能力的工具和手段。
 
 Organizations need to realize that fear of change and lack of personal employee motivation are real and can impact adopting automation successfully. Artificial Intelligence must not be viewed as a threat or as taking away work, but as a means for being more productive and for tapping new capabilities.
+
+其他 AI 实战中可能存在的主要风险点在于以下几点。训练AI的过程很漫长或者会很负责，是不是这样的技术就不可信或不可控，是不是也不能充分了解AI做出错误决策时的影响。另外，AI的能力可能会很弱或者太局限而无法完成人类雇员所能达到的复杂程度。其他挑战在于从法律角度确定当AI造成损失之后谁来负责。
 
 Other major risks reside in operating AI. Training can either take too long or can be too complex, and there is the fear that the technology cannot be trusted and controlled, as well as not knowing the full impact of AI taking the wrong decision. Furthermore, AI capabilities can potentially be too narrow or too specialized to cover the full complexity of a human knowledge employee. Other challenges reside in defining who is responsible, from a legal standpoint, when AI causes damage due to bad decision-making and integrating AI in countries that, from a cultural standpoint, are less risk-averse or that view AI as a threat to their social status. 
 
