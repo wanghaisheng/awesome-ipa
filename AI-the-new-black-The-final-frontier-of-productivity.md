@@ -96,22 +96,38 @@ Next, organizations must define and implement the technology integration and inf
 
 Organizations need to realize that fear of change and lack of personal employee motivation are real and can impact adopting automation successfully. Artificial Intelligence must not be viewed as a threat or as taking away work, but as a means for being more productive and for tapping new capabilities.
 
-其他 AI 实战中可能存在的主要风险点在于以下几点。训练AI的过程很漫长或者会很负责，是不是这样的技术就不可信或不可控，是不是也不能充分了解AI做出错误决策时的影响。另外，AI的能力可能会很弱或者太局限而无法完成人类雇员所能达到的复杂程度。其他挑战在于从法律角度确定当AI造成损失之后谁来负责。
+其他 AI 实战中可能存在的主要风险点在于以下几点。训练AI的过程很漫长或者会很负责，是不是这样的技术就不可信或不可控，是不是也不能充分了解AI做出错误决策时的影响。另外，AI的能力可能会很弱或者太局限而无法完成人类雇员所能达到的复杂程度。其他挑战在于从法律角度确定当AI造成损失之后谁来负责以及从文化的角度来看AI是不是一种对人类社会状态的威胁等等。
 
 Other major risks reside in operating AI. Training can either take too long or can be too complex, and there is the fear that the technology cannot be trusted and controlled, as well as not knowing the full impact of AI taking the wrong decision. Furthermore, AI capabilities can potentially be too narrow or too specialized to cover the full complexity of a human knowledge employee. Other challenges reside in defining who is responsible, from a legal standpoint, when AI causes damage due to bad decision-making and integrating AI in countries that, from a cultural standpoint, are less risk-averse or that view AI as a threat to their social status. 
 
+最后很重要的一点就是AI系统的训练需要时间以及责任。任何组织机构都必须保证价值观不要跑偏了。
+
 Finally, but just as important, a proper training of the AI system takes time and responsibility. Organizations must keep an eye on value misalignment.
+
+训练一个拥有常识的AI系统来防止它犯一些错误的决策最终来看肯定是有害的。
+
 
 Training the AI system common sense to prevent it from taking fatal decisions is ultimately detrimental. 
 
+综上所述，AI的落地需要借助卓越中心、AI和机器人咨询团队以及开发人员和最终用户的协同。
+
 As seen in the previous illustration, operating Artificial Intelligence could function with the collaboration between the in-house Center of Excellence, AI and robotics consultants, developers and users.
 
+卓越中心负责记录和定义一些新的流程和规划并将这些分发给咨询人员或者开发人员，同时又要能满足用户的需求，并给用户提供帮助。
+
 The CoE records and defines new activities and sends them to the consultants or developers, while it also agrees to the design change with users and provides support. 
+
+咨询人员和开发人员负责平台功能的开发、测试和调整，同时负责其中AI平台的测试和维护。用户提出并确认那些需要调整的业务流程。
 
 Consultants or developers create, change and test the platform’s functions and integrations, perform a joint functional test and maintain the AI system platform. The users specify the process changes or the knowledge items and then verify them.
 
 ## A FEW FINAL WORDS… 
 
+AI和RPA整合在一起，与人类通力配合是不可战胜的一种思路。要想从数字化劳动力中最大化收益，企业需要对其开发和应用给予恰当的时间、关注度、分析、准备和思考。
+
 A mix of AI and RPA, along with a full cooperation with humans is inevitable. But the organization must not take its success for granted. To fully benefit from the limitless potential of the future digital labor, enterprises need to grant its development and adoption the right amount of time, attention, analysis, preparation and thought.
+
+
+如果人机之间的困局得以解决，在数不胜数的业务流程中应用AI技术就会变得更快更简单，将便于加速和自动化这个过程。
 
 If the Human-to-Machine conundrum is solved, applying AI to countless business processes will become simpler and faster, and it will be easier to accelerate and automate the transformation process.
